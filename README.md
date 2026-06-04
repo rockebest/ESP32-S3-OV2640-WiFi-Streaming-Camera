@@ -41,6 +41,8 @@ UDP discovery is also included, so the Python viewer can automatically find the 
 
 ## Hardware
 
+![ESP32-S3 OV2640 board](images/esp32_s3_ov2640_board.png)
+
 - ESP32-S3 WROOM N16R8 CAM
 - OV2640 camera module
 - 2.4 GHz Wi-Fi network
@@ -48,7 +50,6 @@ UDP discovery is also included, so the Python viewer can automatically find the 
 
 > Note: ESP32-S3 generally supports 2.4 GHz Wi-Fi, not 5 GHz Wi-Fi.  
 > Make sure the ESP32-S3 and the PC are on the same network.
-images/esp32_s3_ov2640_board.png
  
 ---
 
